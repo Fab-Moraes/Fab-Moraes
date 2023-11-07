@@ -18,9 +18,9 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Fabiano Moraes</h1>
 
 
-- 🔥 Um Cientista de Dados em construção🤓
+- 🔥 Estudante de Tecnologia | Graduado em Sistemas de Informação | Pós em Engenharia de Software | Python | SQL🤓
 
-- 🔭 I’m currently working at [BootCampSantander](https://www.dio.me/users/progr_fabianomoraes)
+- 🔭 I’m currently working at FOCADO NOS ESTUDOS
 
 - 👨‍💻 More at [Fabiano Moraes] (https://www.linkedin.com/in/devfabianomoraes/)
 <br>
