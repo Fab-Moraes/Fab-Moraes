@@ -26,16 +26,14 @@
 <br>
 
 # 🛠 &nbsp;Tech Stack
+![JAVA](https://img.shields.io/badge/-JAVA-05122A?style=flat&logo=JAVA)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![PowerBI](https://img.shields.io/badge/-PowerBI-05122A?style=flat&logo=powerbi)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQLService-05122A?style=flat&logo=SQLService)&nbsp;
-![NoSQL](https://img.shields.io/badge/-NoSQL-05122A?style=flat&logo=NoSQL)&nbsp;
 ![Excel](https://img.shields.io/badge/-Excel-05122A?style=flat&logo=excel)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 <br>
